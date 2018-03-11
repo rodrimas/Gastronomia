@@ -1,0 +1,52 @@
+.estilo_body{
+  background-image: url('../img/fondo.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+}
+.contenedor_principal{
+  opacity: 0.8;
+}
+.columnaizq .columnader{
+  opacity: 1;
+}
+.estilo_titulo{
+  text-align: right;
+}
+.estilo_articulo{
+  text-align: justify;
+  text-indent: 20px;
+  margin-top: 15px;
+}
+.verticalLine {
+  border-right: 1px solid black;
+}
+.textsearch{
+  width: 10rem;
+}
+.estilo_favoritos{
+  width: 100%;
+  height: auto;
+}
+.txtcomment{
+  background-color: white;
+}
+span{
+  padding-left: 10px;
+}
+.estiloPublicar{
+  float: right;
+}
+.btnsize{
+  width: 100%;
+}
+.estilo_fecha{
+  color: #ef9a9a;
+}
+.estilo_imgarticulo{
+  width: 100%;
+}
+p{
+  text-align: justify;
+}
